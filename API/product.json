@@ -1,0 +1,180 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "slug": "jenlooper-cactus",
+      "Maker": "@jenlooper",
+      "img": "https://cdn.shopify.com/s/files/1/0130/5041/3114/products/CustomFitSoft-TouchPolo_3_600x.jpg?v=1626264256",
+      "Url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+      "Title": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
+      "Description": "This project is a good learning project to get comfortable with soldering and programming an Arduino.",
+      "Ratings": [
+        5,
+        5
+      ],
+      "Price": "10.00",
+      "count": "1"
+    },
+    {
+      "id": "2",
+      "slug": "jenlooper-light",
+      "Maker": "jenlooper",
+      "img": "https://cdn.shopify.com/s/files/1/0130/5041/3114/products/HamptonStraight-FitJean_2_600x.jpg?v=1626264108",
+      "Url": "https://www.hackster.io/agent-hawking-1/book-light-dee7e4",
+      "Title": "A beautiful switch-on book light",
+      "Description": "Use craft items you have around the house, plus two LEDs and a LilyPad battery holder, to create a useful book light for reading in the dark.",
+      "Ratings": null,
+      "Price": "999.00",
+      "count": "1"
+    },
+    {
+      "id": "3",
+      "slug": "jenlooper-lightshow",
+      "Maker": "@jenlooper",
+      "img": "https://cdn.shopify.com/s/files/1/0130/5041/3114/products/StandardFitSportShirt_3_600x.jpg?v=1626263976",
+      "Url": "https://www.hackster.io/agent-hawking-1/bling-your-laptop-with-an-internet-connected-light-show-30e4db",
+      "Title": "Bling your Laptop with an Internet-Connected Light Show",
+      "Description": "Create a web-connected light-strip API controllable from your website, using the Particle.io.",
+      "Ratings": null,
+      "Price": "880.00",
+      "count": "1"
+    },
+    {
+      "id": "4",
+      "slug": "jenlooper-survival",
+      "Maker": "jenlooper",
+      "img": "https://cdn.shopify.com/s/files/1/0130/5041/3114/products/Ocean-WashLinenSportShirt_1_600x.jpg?v=1626263631",
+      "Url": "https://www.hackster.io/agent-hawking-1/create-a-compact-survival-kit-38bfdb",
+      "Title": "Create a Compact Survival Kit with LED Track Lighting",
+      "Description": "Use an Altoids tin with Chibitronics sticker LEDs to create a light-up compact that doubles as a survival kit for the young hipster",
+      "Ratings": null,
+      "Price": "530.00",
+      "count": "1"
+    },
+    {
+      "id": "5",
+      "slug": "sailorhg-bubblesortpic",
+      "Maker": "sailorhg",
+      "img": "https://cdn.shopify.com/s/files/1/0130/5041/3114/products/Viscose-CashmereScarf_4_600x.jpg?v=1626266964",
+      "Url": "https://twitter.com/sailorhg/status/1090107740049952770",
+      "Title": "Bubblesort Visualization",
+      "Description": "Visualization of sailor scouts sorted by bubblesort algorithm by their planet's distance from the sun",
+      "Ratings": null,
+      "Price": "250.00",
+      "count": "1"
+    },
+    {
+      "id": "6",
+      "slug": "sailorhg-corsage",
+      "Maker": "sailorhg",
+      "img": "https://cdn.shopify.com/s/files/1/0130/5041/3114/products/Relaxed-FitCottonShirt_4_600x.jpg?v=1626266842",
+      "Url": "https://twitter.com/sailorhg/status/1090113666911891456",
+      "Title": "Light-up Corsage",
+      "Description": "Light-up corsage I made with my summer intern.",
+      "Ratings": null,
+      "Price": "130.00",
+      "count": "1"
+    },
+    {
+      "id": "7",
+      "slug": "sailorhg-kit",
+      "Maker": "sailorhg",
+      "img": "https://cdn.shopify.com/s/files/1/0130/5041/3114/products/Premier_Cropped_Skinny_Jean_13_2048x2048_dab3dc7a-ea19-4476-8f0b-431b4317bff8_600x.jpg?v=1626266572",
+      "Url": "https://twitter.com/sailorhg/status/1090122822007963648",
+      "Title": "Pastel hardware kit",
+      "Description": "Pastel hardware kits complete with custom manufactured pastel alligator clips.",
+      "Ratings": null,
+      "Price": "120.00",
+      "count": "1"
+    },
+    {
+      "id": "8",
+      "slug": "sailorhg-led",
+      "Maker": "sailorhg",
+      "img": "https://cdn.shopify.com/s/files/1/0130/5041/3114/products/TailoredFitMesh-PanelPolo_4_600x.jpg?v=1626266062",
+      "Url": "https://twitter.com/sailorhg/status/1090117277540745216",
+      "Title": "Heart-shaped LED",
+      "Description": "custom molded heart shaped LED with sprinkles.",
+      "Ratings": null,
+      "Price": "90.00",
+      "count": "1"
+    }
+  ],
+  "cart": [
+    {
+      "slug": "jenlooper-cactus",
+      "Maker": "@jenlooper",
+      "img": "https://cdn.shopify.com/s/files/1/0130/5041/3114/products/CustomFitSoft-TouchPolo_3_600x.jpg?v=1626264256",
+      "Url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+      "Title": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
+      "Description": "This project is a good learning project to get comfortable with soldering and programming an Arduino.",
+      "Ratings": [
+        5,
+        5
+      ],
+      "Price": "10.00",
+      "count": "1",
+      "id": "u1HyTFL"
+    },
+    {
+      "slug": "jenlooper-light",
+      "Maker": "jenlooper",
+      "img": "https://cdn.shopify.com/s/files/1/0130/5041/3114/products/HamptonStraight-FitJean_2_600x.jpg?v=1626264108",
+      "Url": "https://www.hackster.io/agent-hawking-1/book-light-dee7e4",
+      "Title": "A beautiful switch-on book light",
+      "Description": "Use craft items you have around the house, plus two LEDs and a LilyPad battery holder, to create a useful book light for reading in the dark.",
+      "Ratings": null,
+      "Price": "999.00",
+      "count": "1",
+      "id": "HRRDP8m"
+    },
+    {
+      "slug": "jenlooper-lightshow",
+      "Maker": "@jenlooper",
+      "img": "https://cdn.shopify.com/s/files/1/0130/5041/3114/products/StandardFitSportShirt_3_600x.jpg?v=1626263976",
+      "Url": "https://www.hackster.io/agent-hawking-1/bling-your-laptop-with-an-internet-connected-light-show-30e4db",
+      "Title": "Bling your Laptop with an Internet-Connected Light Show",
+      "Description": "Create a web-connected light-strip API controllable from your website, using the Particle.io.",
+      "Ratings": null,
+      "Price": "880.00",
+      "count": "1",
+      "id": "MU4EbEY"
+    },
+    {
+      "slug": "jenlooper-survival",
+      "Maker": "jenlooper",
+      "img": "https://cdn.shopify.com/s/files/1/0130/5041/3114/products/Ocean-WashLinenSportShirt_1_600x.jpg?v=1626263631",
+      "Url": "https://www.hackster.io/agent-hawking-1/create-a-compact-survival-kit-38bfdb",
+      "Title": "Create a Compact Survival Kit with LED Track Lighting",
+      "Description": "Use an Altoids tin with Chibitronics sticker LEDs to create a light-up compact that doubles as a survival kit for the young hipster",
+      "Ratings": null,
+      "Price": "530.00",
+      "count": "1",
+      "id": "jueJiqf"
+    },
+    {
+      "slug": "sailorhg-led",
+      "Maker": "sailorhg",
+      "img": "https://cdn.shopify.com/s/files/1/0130/5041/3114/products/TailoredFitMesh-PanelPolo_4_600x.jpg?v=1626266062",
+      "Url": "https://twitter.com/sailorhg/status/1090117277540745216",
+      "Title": "Heart-shaped LED",
+      "Description": "custom molded heart shaped LED with sprinkles.",
+      "Ratings": null,
+      "Price": "90.00",
+      "count": "1",
+      "id": "B97s0Bq"
+    },
+    {
+      "slug": "sailorhg-corsage",
+      "Maker": "sailorhg",
+      "img": "https://cdn.shopify.com/s/files/1/0130/5041/3114/products/Relaxed-FitCottonShirt_4_600x.jpg?v=1626266842",
+      "Url": "https://twitter.com/sailorhg/status/1090113666911891456",
+      "Title": "Light-up Corsage",
+      "Description": "Light-up corsage I made with my summer intern.",
+      "Ratings": null,
+      "Price": "130.00",
+      "count": "1",
+      "id": "ieP1-7I"
+    }
+  ]
+}
